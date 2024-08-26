@@ -1,0 +1,23 @@
+Project: Personal Expense Tracker
+Features:
+Add New Expenses:
+
+Input fields for the expense name, amount, and date.
+A button to add the expense to the list.
+View Expense List:
+
+Display a list of all added expenses with their details.
+Option to sort by date or amount.
+Edit and Delete Expenses:
+
+Edit existing expense details.
+Delete expenses from the list.
+Calculate Totals:
+
+Display the total amount spent and, optionally, categorize expenses (e.g., food, entertainment).
+Responsive Design:
+
+Ensure the UI works well on both desktop and mobile devices.
+Data Persistence:
+
+Use localStorage to save expenses so they persist when the page is refreshed.
